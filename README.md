@@ -1,4 +1,4 @@
-# Bank_Analytics
+# Bank_Loan_Analysis
 
 ## Summary
 
